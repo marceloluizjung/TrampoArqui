@@ -1,0 +1,38 @@
+Trabalho final  Batalha naval 
+SUBMARINO: S
+DESTROYER: DDD 
+PORTA-AVIÕES: PPP 
+
+
+  1 2 3 4 5 6 7 8 | 
+A~~~~~~~~~~~~~~~~ |
+B~~~~~~~~~~~~~~~~ |
+C~~~~~~~~~~~~~~~~ | Plota objetos atingidos
+D~~~~~~~~~~~~~~~~ |
+E~~~~~~~~~~~~~~~~ |
+F~~~~~~~~~~~~~~~~ |
+G~~~~~~~~~~~~~~~~ |
+H~~~~~~~~~~~~~~~~ |
+
+TERMINAL BURRO 
+COORDENADA:  
+
+TIROS: 32 
+
+x erro 
+torcar ~por .
+
+Exemplo de código 
+
+batalha db "~~PPP~~~"
+        db "~~S~~~~~"
+	db "~~~~~~~~"
+	db "DD~~~~~~"
+	db "~~~~S~~~"
+
+ASCCI: A - 65 
+	1 - 48  
+
+
+
+
